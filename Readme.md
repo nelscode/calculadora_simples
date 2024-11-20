@@ -29,9 +29,14 @@ Este é um projeto de uma calculadora simples desenvolvida com **HTML**, **CSS**
 
 ---
 
-# 📚 **O que Aprendi com Este Projeto**
+## 📚 **O que Aprendi com Este Projeto**
 
 - Criar interfaces responsivas utilizando flexbox.
 - Manipular eventos de clique em JavaScript.
 - Implementar lógica condicional para validações e cálculos.
 - Lidar com erros e exibi-los de forma amigável ao usuário
+
+## 📩 Contato
+
+Feito com ❤️ por Nelson Martins.
+Se você gostou, deixe uma ⭐ no repositório! 😊
